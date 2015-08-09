@@ -6,11 +6,11 @@ Start exploring our APIs without a lot of code by plugging these collections int
 
 We provide two files to import into Postman: 
 
-`awhere.postman_environment`
-This file sets up an Environment in Postman, where you can enter your API key and secret. 
+`awhere.postman_environment` 
+* This file sets up an Environment in Postman, where you can enter your API key and secret. 
 
-`aWhereV1APIs.json.postman_collection`
-These are the prebuilt API requests. 
+`aWhereV1APIs.json.postman_collection` 
+* These are the prebuilt API requests. 
 
 First install the environment from the Environments menu. Enter your API Key and Secret in the environmental variables and then be sure the "aWhere" environment is selected. 
 
