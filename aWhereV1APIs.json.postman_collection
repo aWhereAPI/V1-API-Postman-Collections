@@ -75,7 +75,7 @@
 		},
 		{
 			"id": "bd9d7db4-6f82-9871-853b-8b4a3a73b5bc",
-			"headers": "Authorization: Basic amVvZm95c3RlckBhd2hlcmUuY29tOkhnNGRucGloVDhEVUN0\n",
+			"headers": "Authorization: Basic USE BASIC AUTH AND UPDATE REQUEST\n",
 			"url": "https://api.awhere.com/oauth/token",
 			"preRequestScript": "",
 			"pathVariables": {},
